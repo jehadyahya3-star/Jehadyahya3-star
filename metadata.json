@@ -1,0 +1,8 @@
+{
+  "name": "Remix: نظام إدارة المعدات والمخزون - Equipment \u0026 Inventory System",
+  "description": "نظام متكامل لإدارة المعدات الثقيلة، عقود العمل، ساعات التشغيل، مخزن الديزل، التكاليف التشغيلية، والتقارير مع التصدير لـ PDF و Excel والرسوم البيانية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
